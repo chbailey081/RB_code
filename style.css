@@ -1,0 +1,92 @@
+body {
+    border: 0;
+    padding: 0 auto;
+    max-width: 1080px;
+    width: 80%;
+    margin: auto;
+    font-family: pramatica-extended, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    background-blend-mode: hard-light;
+    background-image: url(https://cdn.ragingbull.com/media/2019/08/9l9RXgN85oFvICeeeg9SS8EQRN1W5TCMqs3LMbKl.jpeg);
+       
+}
+
+
+
+h1 {
+    font-size: 42px;
+    font-weight: bold;
+    position: static;
+    margin: 2.7%;
+    line-height: 1.1em;
+    text-align: center;
+    font-family: pirulen-rg,Arial,sans-serif;
+    
+}
+
+
+
+h2 {
+    font-size: 1.625rem;
+    text-align: center;
+    font-family: pramatica-extended, sans-serif;
+    font-weight: bold;
+    margin: 1.66%;
+}
+
+
+
+div p {
+    margin: 2.7%;
+    line-height: .5rem;
+}
+
+a {
+    margin: .5%;
+    text-decoration: none;
+    color: black;
+}
+
+
+/* wrapper styling */
+
+.green {
+    border:  solid white;
+    padding: 0px 85px 0px 85px;
+    margin: auto;
+    background-color: white;
+    
+}
+/* footer styling */
+
+.green-footer {
+    border:  solid white;
+    padding: 0px 85px 25px 85px;
+    margin: auto;
+    background-color: white;
+    line-height: 1.7em;
+    
+}
+
+/* video styling 
+
+.video {
+    position: relative;
+    height: 380px;
+    width: 680px;
+    
+}
+
+.video iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    
+}
+
+
+*/
